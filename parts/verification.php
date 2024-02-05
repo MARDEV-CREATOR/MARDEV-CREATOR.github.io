@@ -15,6 +15,6 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div>
-		<a href="REPLACE YOUR CONTENT LOCKER URL HERE"><span>Verify Now</span></a>
+		<button onclick="window.location.href='https://your-content-locker-url.com'"><span>Verify Now</span></button>
 	</div>
 </div>

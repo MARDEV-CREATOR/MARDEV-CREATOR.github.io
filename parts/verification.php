@@ -14,7 +14,7 @@
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
-	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
+	<div>
 		<a href="REPLACE YOUR CONTENT LOCKER URL HERE"><span>Verify Now</span></a>
 	</div>
 </div>

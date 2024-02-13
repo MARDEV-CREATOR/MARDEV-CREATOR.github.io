@@ -15,6 +15,6 @@
 		<span id="human_verification_timer_time"></span>
 	</div>
 	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<button onclick="_TR()">Verify Now</button>
+		<button style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onclick="_TR()">Verify Now</button>
 	</div>
 </div>
